@@ -20,15 +20,15 @@ import android.widget.Toast;
 import com.example.btlptdd.SinhVien.SinhVienDAO;
 import com.example.btlptdd.SinhVien.SinhVienObject;
 
-import BUITIENDUNG.ResultObject;
-import BUITIENDUNG.RegistedSubjectObject;
-import BUITIENDUNG.ResultActivity;
-import LEMINHKHOI.Message;
-import PHANHUUHIEU.ReportingAdvisor;
-import VUMINHQUAN.StudyPlan;
-import VUMINHQUAN.SuggestedSubjects;
-import VUXUANDIEP.Document;
-import VUXUANDIEP.Timetable;
+import A.ResultObject;
+import A.RegistedSubjectObject;
+import A.ResultActivity;
+import B.Message;
+import C.ReportingAdvisor;
+import C.StudyPlan;
+import C.SuggestedSubjects;
+import D.Document;
+import D.Timetable;
 
 public class MainActivity extends AppCompatActivity {
     SinhVienDAO sinhVienDAO;
